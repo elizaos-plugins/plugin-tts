@@ -1,5 +1,5 @@
 {
-    "name": "@elizaos/plugin-tts",
+    "name": "@elizaos-plugins/plugin-tts",
     "version": "0.1.8+build.1",
     "type": "module",
     "main": "dist/index.js",
